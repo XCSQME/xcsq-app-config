@@ -1,35 +1,60 @@
 {
-  "schema": 1,
-  "sequence": 2026111102,
-  "issued_at": "2026-11-11T02:20:00Z",
-  "expires_at": "2027-02-08T00:00:00Z",
   "endpoints": {
-    "api": ["https://app-api.xcsq.site"],
-    "website": ["https://xcsq.site"],
-    "trading": ["https://gendan-api.xcsq.site"],
-    "strategy": ["https://ssjk.xcsq.site"],
-    "rebate": ["https://fy.xcsq.site"]
+    "api": [
+      "https://app-api.xcsq.site"
+    ],
+    "rebate": [
+      "https://fy.xcsq.site"
+    ],
+    "strategy": [
+      "https://ssjk.xcsq.site"
+    ],
+    "trading": [
+      "https://gendan-api.xcsq.site"
+    ],
+    "website": [
+      "https://xcsq.site"
+    ]
   },
+  "expires_at": "2027-02-16T13:54:45Z",
+  "issued_at": "2026-11-19T13:54:45Z",
   "release_meta": {
     "app_versions": {
       "android": {
+        "additional_allowed": [
+          "1.4.30+46",
+          "1.4.29+45",
+          "1.4.28+43",
+          "1.4.27+42",
+          "1.4.26+41",
+          "1.4.25+40",
+          "1.4.24+39"
+        ],
+        "latest": "1.4.31+47",
         "minimum": "1.4.23+38",
-        "latest": "1.4.30+46",
-        "update_url": "https://github.com/XCSQME/xcsq-app-config/releases/download/android-1.4.30-46/XCSQ-Android.apk",
-        "sha256": "89caa9b6c22c561d4e9774720651196c9418ba880be4d8e4b949ca815d6efaba",
-        "additional_allowed": ["1.4.29+45", "1.4.28+43", "1.4.27+42", "1.4.26+41", "1.4.25+40", "1.4.24+39"]
+        "sha256": "d01caafc8270fa22c93568360598afb0d731247b79a5a8a697375ca7f837b222",
+        "update_url": "https://github.com/XCSQME/xcsq-app-config/releases/download/android-1.4.31-47/XCSQ-Android.apk"
       },
       "ios": {
-        "minimum": "1.4.18+37",
+        "additional_allowed": [
+          "1.4.23+41",
+          "1.4.24+42",
+          "1.4.27+43",
+          "1.4.28+44",
+          "1.4.30+46",
+          "1.4.31+47"
+        ],
         "latest": "1.4.29+45",
-        "update_url": "https://apps.apple.com/app/id6813766459",
-        "additional_allowed": ["1.4.23+41", "1.4.24+42", "1.4.27+43", "1.4.28+44", "1.4.30+46"]
+        "minimum": "1.4.18+37",
+        "update_url": "https://apps.apple.com/app/id6813766459"
       }
     },
     "legal": {
       "privacy_url": "https://app-api.xcsq.site/legal/privacy",
-      "terms_url": "https://app-api.xcsq.site/legal/terms",
-      "support_url": "https://app-api.xcsq.site/support"
+      "support_url": "https://app-api.xcsq.site/support",
+      "terms_url": "https://app-api.xcsq.site/legal/terms"
     }
-  }
+  },
+  "schema": 1,
+  "sequence": 2026111901
 }
