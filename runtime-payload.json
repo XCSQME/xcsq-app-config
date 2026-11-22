@@ -16,12 +16,13 @@
       "https://xcsq.site"
     ]
   },
-  "expires_at": "2027-02-19T05:25:49Z",
-  "issued_at": "2026-11-22T05:25:49Z",
+  "expires_at": "2027-02-19T08:55:25Z",
+  "issued_at": "2026-11-22T08:55:25Z",
   "release_meta": {
     "app_versions": {
       "android": {
         "additional_allowed": [
+          "1.4.33+49",
           "1.4.32+48",
           "1.4.31+47",
           "1.4.30+46",
@@ -32,10 +33,10 @@
           "1.4.25+40",
           "1.4.24+39"
         ],
-        "latest": "1.4.33+49",
+        "latest": "1.4.34+50",
         "minimum": "1.4.23+38",
-        "sha256": "08ab21e6b5f4d2cc1bfce57654216b1f7a532b100921aa2492babc1c6f60bbf8",
-        "update_url": "https://github.com/XCSQME/xcsq-app-config/releases/download/android-1.4.33-49/XCSQ-Android.apk"
+        "sha256": "a906ead87968e15b4762534553684f4b4e3509923c98c57e42db14a913f0a2bc",
+        "update_url": "https://github.com/XCSQME/xcsq-app-config/releases/download/android-1.4.34-50/XCSQ-Android.apk"
       },
       "ios": {
         "additional_allowed": [
@@ -45,7 +46,8 @@
           "1.4.28+44",
           "1.4.30+46",
           "1.4.31+47",
-          "1.4.33+49"
+          "1.4.33+49",
+          "1.4.34+50"
         ],
         "latest": "1.4.29+45",
         "minimum": "1.4.18+37",
@@ -59,5 +61,5 @@
     }
   },
   "schema": 1,
-  "sequence": 2026112201
+  "sequence": 2026112202
 }
