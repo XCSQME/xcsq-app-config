@@ -16,8 +16,8 @@
       "https://xcsq.site"
     ]
   },
-  "expires_at": "2027-02-23T17:00:21Z",
-  "issued_at": "2026-11-26T17:00:21Z",
+  "expires_at": "2027-02-23T20:18:51Z",
+  "issued_at": "2026-11-26T20:18:51Z",
   "release_meta": {
     "app_versions": {
       "android": {
@@ -43,11 +43,11 @@
       },
       "ios": {
         "additional_allowed": [
-          "1.4.34+50",
-          "1.4.31+47"
+          "1.4.35+51",
+          "1.4.34+50"
         ],
-        "latest": "1.4.35+51",
-        "minimum": "1.4.31+47",
+        "latest": "1.4.36+52",
+        "minimum": "1.4.34+50",
         "update_url": "https://apps.apple.com/app/id6813766459"
       }
     },
@@ -58,5 +58,5 @@
     }
   },
   "schema": 1,
-  "sequence": 2026112606
+  "sequence": 2026112607
 }
